@@ -1,0 +1,10 @@
+__pycache__/
+*.pkl
+*.pyc
+dataset_clean.csv
+gampaha_grid_dataset.csv
+preprocessed_train.csv
+preprocessed_grid.csv
+train_split.csv
+val_split.csv
+model_report.png
